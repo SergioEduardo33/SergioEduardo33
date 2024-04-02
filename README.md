@@ -1,9 +1,9 @@
 # Olá, sou o Sérgio 👋 
 
-<a href="https://www.instagram.com/sergio_easf/" target="_blank">
+<a href="https://www.instagram.com/sergio_easf/">
   <img align="left" alt="Sérgio Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/s%C3%A9rgio-eduardo-de-almeida-soares-filho-423138250/" target="_blank">
+<a href="https://www.linkedin.com/in/s%C3%A9rgio-eduardo-de-almeida-soares-filho-423138250/">
   <img align="left" alt="Sérgio`s LinkedIN" width="85px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
